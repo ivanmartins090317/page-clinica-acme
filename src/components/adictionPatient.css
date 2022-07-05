@@ -1,0 +1,10 @@
+.form {
+  display: inline-block;
+  width: 100vw;
+  align-items: center;
+  background-color: #8888;
+}
+
+.form > div {
+  width: 100%;
+}

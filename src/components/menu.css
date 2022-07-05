@@ -1,0 +1,23 @@
+.menu {
+  align-items: space-between;
+  background-color: aqua;
+}
+
+.container {
+  display: flex;
+  align-items: space-between;
+  list-style: none;
+  padding: 3rem;
+  text-decoration: none;
+}
+.container > li {
+  margin: 1.5rem 0 0 5rem;
+}
+.container:nth-child(1) {
+  margin-left: 2rem;
+}
+
+img {
+  width: 5rem;
+  height: 5rem;
+}

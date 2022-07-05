@@ -1,0 +1,34 @@
+.tabela {
+}
+.tabela > h1 {
+  margin-left: 4.5rem;
+}
+.tabela > table {
+  margin-left: 4.5rem;
+}
+.tabela > thead > tr > th {
+  padding: 2rem;
+}
+ul.container {
+  margin-top: -0.5rem;
+}
+li > a {
+  margin-top: 2rem;
+}
+.container > li {
+  margin-top: 3rem;
+
+  font-family: open sans, sans-serif, bold;
+}
+tr {
+}
+td:first-child {
+  margin-left: 3rem;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+.botao {
+  background-color: #fff;
+}
